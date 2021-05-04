@@ -1,7 +1,6 @@
 import unittest
 from cubevol import *
 
-
 class TestCube(unittest.TestCase):	
 	def setUp(self):
 		self.cube_vol = ['2']
